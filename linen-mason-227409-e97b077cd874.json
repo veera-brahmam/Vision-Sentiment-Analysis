@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "linen-mason-227409",
+  "private_key_id": "e97b077cd874fa7da9123707e41d8adbe94c84a1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDYC+c2UeKMQp9p\n4gAglzUaLc04HamqnEDR1eOkSP7/13t5q/TZ/hMUuB/RY6uPYILF1Ipe/qIWln4Z\nH3H5SPn0A7yqq5WWWCgfFogbMWMvZqVd8hLA6WI9lrfDVn7/7s/lW+xPiHc+18dT\ngueasnRnssPxT+WyQroXfOOxIPBBOMa9cgImAzW03rLFBljPg+Qu0Lk/AgN7Vef6\ngz+hwenMtRp5nW2RN/KHBR8rVcO4LbYH01CeIJtbPk9UDSWKih7XPR2z5E1fbZwt\n2p3J1srDJQ+hBBm6GDxSTRZtYByoUWAJinhRjiHXAbDgEIT12826IyhhQB6hdJNU\nLyb/loLtAgMBAAECggEABp5B3zVdvJe24INM3g4k44uXJBquhHx7Pf3C+zQzGrQM\nHqpOUY0VInuZmjVwLRR3macKmapwlFV87sIDvC9kARTupysQyke0/hOp3xFhocV9\nTrYKkoc2ANHq5ENiBaXYIeCod6X2XgsjfvwYtI0kJKk5XOZzkGmSqQNSgQBBfQQ5\nY8U34Y0yUHgSxy8YlTzygqimDrWwjUk1ZT0MgtFwsynrIIFJhM7N22pmQVGztS38\nYu2IMtWTE2ZoCfvI1HbHDKiuroH1d+GWnciC3jBx2JwWoKGVrqzg6FX1/PRsWIRP\n5NoVOYtkeYe1j4lDSL8lu2YG+GaGNTQVLYKTIcF90QKBgQD+ZdKy6acOPnlu7Y7W\naofHFbKhKUBloLvVD08Gs0VDnp9gzpVYt13N8F3z5gUZbYS+TuCwVrE656GMKgkA\nXKXftTzXIG/kDTmCnXvWzugSyjR+rK8ZwxkH6l0ujEMJdLFMsc6tkomljXcj7iiD\n1WM3C6c8WAzanPyrsQCP8obskQKBgQDZaD6jbfi8pJx+NxwqXKpH909zhIM2+tD2\n1Mu4KI2t4HoWiTzE+TdQBTLUsAJ2lMkJ0oZgh4yk0QmeKrxITicgYxTil/tX8wnJ\nuDF7JstR0kigRhVEIkx2szu45EfnjJCphChC0luGk2T8XvC/mLn2AcALn5KwD9pg\nDezlrS+OnQKBgQDoYGpOM0/9muOhiC3pffX4zMEWpW/FZUUuIYW2QRsL4WEENLAH\nEbgF3YJ0v6/4wil3DOYBLa9Gdz8BoYQHaJm79vlUKLUMQ2g8/02Xsfga8clxzJtF\nlQjQSixD0KuLf6RUwjZgJnLFXqttjqZDhi/SoDpqzKMxLiU/T7eLxaWpgQKBgQDI\nRsz1Vvh+J5J2fyQ2Lhk7pKsPerI58sKPsCZfZxRlalZt7k0KE58N20whPGd4f8XX\ng5YA1L4OkvcuOqYqYbyPjFcQCvwi4CRTLJiAn5NLs9DtvMIYexQ/gQtyXvGScB5P\n2wwPyqNADQZJqthTWElvQ9t7mavS/zenpwxl5K3bzQKBgQDJSdYuiBug9wHwFmpP\nx7z5rRC4lQiLQTcjdQAJxHmC7qhoNsB34wZfSOc2g/yWCz2GRuMCAejMDopvb64y\nQJfx1XitLSh0ftZRvL/lKuSYRpZtcyDLIDYc+K7w26vSHK3sonSBa+IlEltOQY3G\njWIJ7s9qNJTWDcDKnIWVcJG0Ew==\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapp@linen-mason-227409.iam.gserviceaccount.com",
+  "client_id": "104056139668460162468",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapp%40linen-mason-227409.iam.gserviceaccount.com"
+}
